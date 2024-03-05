@@ -9,3 +9,6 @@
 .imagem-cabecalho{
     width: 25%;
 }
+.cabecalho-item{
+    display: inline-block;
+}
